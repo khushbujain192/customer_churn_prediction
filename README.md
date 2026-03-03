@@ -19,17 +19,16 @@ Preprocess Data – Handle missing values, encode categorical variables, scale f
 Feature Engineering – Create meaningful features that improve prediction.
 Train Model – Logistic Regression, Random Forest, or Gradient Boosting for churn prediction.
 Evaluate Model – Check metrics like accuracy, precision, recall, and ROC-AUC.
-Deploy App – Users can input customer details and get churn probability.
+Web App – Users can input customer details and get churn probability.
 
 🛠️ Technologies Used
-
-1.Python
-2.Numpy 
-3.Pandas
-4.Matplotlib
-5.Seaborn 
-6.Scikit-learn
-7.Streamlit
+Python
+Numpy 
+Pandas
+Matplotlib
+Seaborn 
+Scikit-learn
+Streamlit
 
 
 
