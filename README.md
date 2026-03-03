@@ -23,13 +23,13 @@ Deploy App – Users can input customer details and get churn probability.
 
 🛠️ Technologies Used
 
-Python
-Numpy 
-Pandas
-Matplotlib
-Seaborn 
-Scikit-learn
-Streamlit
+1.Python
+2.Numpy 
+3.Pandas
+4.Matplotlib
+5.Seaborn 
+6.Scikit-learn
+7.Streamlit
 
 
 
